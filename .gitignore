@@ -1,2 +1,5 @@
 venv/
 mlprojecttemplate.egg-info/
+logs/
+artifacts/
+__pycache__/
